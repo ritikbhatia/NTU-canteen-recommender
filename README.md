@@ -5,4 +5,4 @@ One can view the picture of the canteens, obtain user ratings about it, input lo
   
 The code even provides the bus routes based on the present location, sorts the canteens based on distance and ratings and provides features for zooming in and out of the picture of the canteen for more clarity.  
   
-The cusisines available in each canteen are also available and the user can give his own ratings to the respective canteen as well, which is permanently stored.
+The cuisines available in each canteen are also available and the user can give his own ratings to the respective canteen as well, which is permanently stored.
